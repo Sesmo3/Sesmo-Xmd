@@ -3,7 +3,7 @@ services:
   - type: web
     name: tct
     runtime: docker
-    repo: https://github.com/i-tct/tct
+    repo: https://github.com/Sesmo3/Sesmo-Xmd
     plan: free
     region: virginia
     dockerContext: .
