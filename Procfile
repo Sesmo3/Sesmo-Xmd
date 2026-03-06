@@ -1,1 +1,0 @@
-worker: ./entrypoint.sh
