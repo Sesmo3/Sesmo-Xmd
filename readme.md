@@ -1,6 +1,4 @@
-# TCT
-
-[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/TheCarlTech)
+# Sesmo Xmd 
 [![GitHub version](https://img.shields.io/github/v/release/i-tct/tct?label=version&style=for-the-badge)](https://github.com/i-tct/tct/releases/latest)
 
 > *A Fast WA Bot Built with Go*  
@@ -10,7 +8,7 @@
 
 ## About
 
-**TCT** is a powerful and fast WA bot manager designed for both personal and group administration.
+**Sesmo Xmd** is a powerful and fast WA bot manager designed for both personal and group administration.
 
 It provides full control over your WhatsApp automation with:
 
@@ -144,6 +142,6 @@ bash <(curl -sL https://i-tct.com/dl/termux)
 
 ---
 
-# ⭐ TCT
+# ⭐ Sesmo Xmd
 
 If you like **TCT**, consider starring the repository on GitHub.
