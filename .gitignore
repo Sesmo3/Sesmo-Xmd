@@ -1,0 +1,13 @@
+tree.txt
+.env
+data
+data/
+logs/
+critical_error.json
+tct-linux
+tct-linux.zip
+tct-windows.zip
+tct-windows.exe
+windowsrunner.exe
+tct-android-arm
+tct-android-arm64
