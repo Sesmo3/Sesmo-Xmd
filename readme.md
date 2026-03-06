@@ -103,20 +103,10 @@ bash <(curl -sL https://i-tct.com/dl/termux)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://i-tct.com/render/)
 
----
-
-## Deploy via Web Panel
-
-[![Deploy Web Panel](https://img.shields.io/badge/Deploy-Web_Panel-009688?style=for-the-badge&logo=web)](https://i-tct.com/panel/)
 
 ---
 
 #  Resources
-
-### Documentation
-
-[![Documentation](https://img.shields.io/badge/Docs-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white)](https://i-tct.com/docs/)
-
 ---
 
 ### Tools
@@ -136,12 +126,8 @@ bash <(curl -sL https://i-tct.com/dl/termux)
 
 ---
 
-# 💬 Support
-
-[![Telegram Support](https://img.shields.io/badge/Telegram-Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheCarlTech)
-
 ---
 
 # ⭐ Sesmo Xmd
 
-If you like **TCT**, consider starring the repository on GitHub.
+If you like **Sesmo Xmd**, consider starring the repository on GitHub.
